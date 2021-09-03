@@ -8,8 +8,8 @@ import input
 
 my_device= Bolt(confy_main.Api_Key,confy_main.Device_Id)
 
-account_sid = 'AC7c8aaacf161a836b17986b565ac3f1aa'
-auth_token = '911a4c6124c8dee2d1dfa1d0112b431f'
+account_sid = '##################'
+auth_token = '##################'
 client=Client(account_sid,auth_token)
 
 
@@ -54,8 +54,8 @@ except Exception as e  :
 try:
     print("Making request to Twilio to send a SMS")
     client.api.account.messages.create(
-        to="+918958468703",
-        from_="+12107023037",
+        to="+#############",
+        from_="+#############",
         body="Alert ! The Current temperature sensor value is CRITICAL.")
     print("SMS has been sent.\n")
 except Exception as e :
