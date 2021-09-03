@@ -1,15 +1,15 @@
 # SMS
-SSID='AC7c8aaacf161a836b17986b565ac3f1aa'
-Auth_Token='911a4c6124c8dee2d1dfa1d0112b431f'
+SSID='#####'
+Auth_Token='######'
 From_Number='+12107023037'
-To_Number='+918958468703'
-Api_Key='4ee78008-c3fc-4265-abae-15f2155bba33'
-Device_Id='BOLT13134546'
+To_Number='+########'
+Api_Key='#######'
+Device_Id='#######'
 
 #  Email
 
-MAILGUN_API_KEY='542faba68f5263e9d1da6ac9fd6101a4-9776af14-bf273d29'
-SANDBOX_URL='sandboxfc0707cc3f874cff92d6e3fecb49de1f.mailgun.org'
+MAILGUN_API_KEY='##########'
+SANDBOX_URL='###############'
 SENDER_EMAIL='test@'+ SANDBOX_URL
 RECIPIENT_EMAIL='prawal125pandey@gmail.com'
 
@@ -23,7 +23,7 @@ RECIPIENT_EMAIL='prawal125pandey@gmail.com'
 # Telegram
 
 telegram_chat_id="@project_iot"
-telegram_bot_id="bot1982922742:AAEscLtdi8HGaB4t3EzhADukTMI9Tqi6xlY"
+telegram_bot_id="##########################"
 
 #  Threshold/ TEMPRATURe
 
