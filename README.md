@@ -4,9 +4,9 @@ An industry based project designed for temperature monitoring and alerts.
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
-
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="https://mail.google.com/mail/u/0?ui=2&amp;ik=e8fae7d796&amp;attid=0.1&amp;permmsgid=msg-a:r-5127566072900433689&amp;th=17baad7123c38c56&amp;view=fimg&amp;disp=thd&amp;attbid=ANGjdJ-hDK0u3gm-hureCSGP0DoEIXm10958KSaF69WHw2jvZTEFTg3WTFZXDOZrueuo4adBsTgMrnDLaRsnF1BWuxSCwsRSrEK8uYPE8FwpjNEpWtXEQc1wk_2gt4M&amp;ats=2524608000000&amp;sz=w1366-h695" alt="Displaying IMG_20210902_161815~3.jpg"/></figure>
+![IMG_20210902_161815_3](https://user-images.githubusercontent.com/87165116/132452264-0c3d9b52-fb31-49f5-8ce3-22a3bec9250f.jpg)
+
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
