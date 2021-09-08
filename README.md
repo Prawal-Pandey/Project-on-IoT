@@ -5,8 +5,8 @@ An industry based project designed for temperature monitoring and alerts.
 <p></p>
 <!-- /wp:paragraph -->
 <!-- wp:image -->
-<figure class="wp-block-image size-large is-resized"><img src="https://user-images.githubusercontent.com/87165116/132452475-d39f172e-fff7-4dd6-a95d-fcfc633a18a5.jpg" alt="" class="wp-image-9110" width="349" height="85"/></figure>
-<!-- ![IMG_20210902_161815_3]() -->
+<figure class="wp-block-image"><img src="https://user-images.githubusercontent.com/87165116/132452735-d422cc26-4182-4cb3-baae-4ab2c8e8ae25.jpg" alt="Displaying IMG_20210902_162251.jpg"/></figure>
+
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -198,7 +198,9 @@ An industry based project designed for temperature monitoring and alerts.
 <!-- /wp:image -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="https://user-images.githubusercontent.com/87165116/132452735-d422cc26-4182-4cb3-baae-4ab2c8e8ae25.jpg" alt="Displaying IMG_20210902_162251.jpg"/></figure>
+<figure class="wp-block-image"><img src="https://user-images.githubusercontent.com/87165116/132453018-39b556a7-d096-4032-a24b-38cccbfe6e4a.jpg" alt="Displaying IMG_20210902_162251.jpg"/></figure>
+
+
 
 
 <!-- /wp:image -->
