@@ -1,4 +1,4 @@
-# Bolt-IoT
+# Portable Temperature Monitoring and Alert System
 An industry based project designed for temperature monitoring and alerts.
 
 <!-- wp:paragraph -->
