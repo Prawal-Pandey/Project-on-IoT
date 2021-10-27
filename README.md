@@ -1,4 +1,6 @@
 # Portable Temperature Monitoring and Alert System
+Implemented using Python Programming Language
+
 An industry based project designed for temperature monitoring and alerts.
 
 <!-- wp:paragraph -->
